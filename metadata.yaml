@@ -1,0 +1,30 @@
+_repo: Theo--A-Sprightly-Love-Story_27990
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burnett, Frances Hodgson
+    aliases:
+    - Townesend, Frances Eliza Hodgson Burnett
+    - Hodgson, Frances Eliza
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '73'
+    url: http://www.gutenberg.org/2009/agents/73
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Hodgson_Burnett
+description: Theo -- Wanted, a young person -- Miss Vernon's choice.
+gutenberg_issued: '2009-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27990'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Love stories'
+title: 'Theo: A Sprightly Love Story'
+url: http://www.gutenberg.org/ebooks/27990
